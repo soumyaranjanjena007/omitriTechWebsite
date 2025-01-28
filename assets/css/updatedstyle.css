@@ -89,8 +89,14 @@
 }
 .redirect-section{
     
-    margin: 150px 138px 0 135px;
-    padding: 85px 39px;
+    margin: 10px 138px 0 135px;
+    padding: 5px 39px;
+}
+
+.heading-font{
+    font-weight: bold;
+    font-size: 6rem;
+    color: #3b469e;
 }
 
 .redirect-section p{
@@ -106,6 +112,7 @@
 }
 .redirect-section ul{
     list-style-type: none;
+    padding-left: 0px;
 }
 .redirect-section strong{
     color: #3b469e;
