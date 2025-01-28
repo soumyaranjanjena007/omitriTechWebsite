@@ -10,8 +10,8 @@
 .read-more {
   border: none;
   border-style: none;
-  color: red;
-  font-size: 10px;
+  color: #102643;
+  font-size: 12px;
   background-color: white;
   padding: 0px;
   margin: 0px;
@@ -97,13 +97,20 @@
     line-height: 2;
 }
 .redirect-section h2{
-    text-decoration: underline;
+    /* text-decoration: underline; */
     line-height: 1.3;
 }
 .redirect-section h4{
     text-decoration: dotted;
     font-weight: bold;
 }
+.redirect-section ul{
+    list-style-type: none;
+}
+.redirect-section strong{
+    color: #3b469e;
+}
+
 .highlight{
     background-color: #90a1cb;
     transition: backgroud-color 0.5s ease;
@@ -113,5 +120,8 @@
     display: flex;
 }
 .custom-brand p{
-    margin-top: 5px;
+    margin: 9px 0px 0px 7px;
+    font-weight: 900;
+    font-size: 20px;
+    color: #010066;
 }

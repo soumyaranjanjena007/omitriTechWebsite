@@ -21,7 +21,7 @@
   color: #abb7b7;
 }
 .text-default {
-  color: #abb7b7 !important;
+  color: #ffffff !important;
 }
 .alert-default {
   color: #a4a4a4 !important;
@@ -60,7 +60,7 @@
   color: #4a525f;
 }
 .text-primary {
-  color: #4a525f !important;
+  color: #152b4e !important;
 }
 .alert-primary {
   color: #464749 !important;
@@ -117,7 +117,7 @@
   color: #fff;
 }
 .bg-danger {
-  background-color: #e15554 !important;
+  background-color: #010066  !important;
 }
 .border-danger {
   border-color: #e15554 !important;
@@ -156,38 +156,38 @@
   color: #fff;
 }
 .bg-success {
-  background-color: #68c39f !important;
+  background-color: #0a0443 !important;
 }
 .border-success {
-  border-color: #68c39f !important;
+  border-color: #686fc3 !important;
 }
 .btn-success {
-  background-color: #68c39f;
-  border-color: #68c39f;
+  background-color: #686fc3;
+  border-color: #686fc3;
   color: #fff;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.active {
-  background-color: #53a585 !important;
-  border-color: #53a585 !important;
+  background-color: #5c53a5 !important;
+  border-color: #5c53a5 !important;
   color: #fff;
 }
 .btn-bordered.btn-success {
-  color: #68c39f;
+  color: #686fc3;
 }
 .text-success {
-  color: #68c39f !important;
+  color: #686fc3 !important;
 }
 .alert-success {
-  color: #62b091 !important;
+  color: #6268b0 !important;
 }
 .panel-success {
-  border-color: #62b091 !important;
+  border-color: #6268b0 !important;
 }
 .panel-success .panel-heading {
-  background-color: #68c39f !important;
-  border-color: #62b091 !important;
+  background-color: #686fc3 !important;
+  border-color: #6268b0 !important;
   border-radius: 0px;
 }
 .panel-success .panel-heading a,
@@ -383,7 +383,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #666666;
+  color: #12127b;
   font-family: "Raleway";
 }
 .light {
@@ -544,7 +544,7 @@ h6 {
   background-attachment: fixed;
   background-position: 50% 0%;
   background-size: 100% auto;
-  background-color: #000000;
+  background-color: #0a0443;
   background-repeat: no-repeat;
   position: relative;
 }
@@ -785,7 +785,7 @@ header.inverted #topbar .top-divider {
   font-size: 40px;
   line-height: 50px;
   margin-bottom: 30px;
-  color: #fff;
+  color: #ffffff;
 }
 .main-slider .slider-caption h2 .invert {
   padding: 0px 10px 4px;
@@ -812,6 +812,7 @@ header.inverted #topbar .top-divider {
 .hero-banner h2 {
   margin-bottom: 20px;
   margin-top: 0px;
+  color: #12127b;
 }
 .features-block {
   padding-top: 50px;
@@ -835,7 +836,7 @@ header.inverted #topbar .top-divider {
   margin-right: 20px;
 }
 .features-block.services-features i {
-  color: #68c39f;
+  color: #686fc3;
 }
 .features-block.about-features .row:first-child,
 .features-block.services-features .row:first-child {
@@ -852,7 +853,7 @@ header.inverted #topbar .top-divider {
   padding-top: 50px;
   padding-bottom: 50px;
   color: #fff;
-  background-image: url(../../images/testimonials.jpg);
+  /* background-image: url(../../images/testimonials.jpg); */
 }
 .testimonials-block h2 {
   color: #fff;
@@ -874,7 +875,8 @@ header.inverted #topbar .top-divider {
   position: relative;
 }
 .video-block .video-overlay {
-  background: rgba(0,0,0,0.7);
+  /* background: rgba(0,0,0,0.7); */
+background: #0a0443;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -962,7 +964,7 @@ header.inverted #topbar .top-divider {
 }
 .pricing.pricing-selected .pricing-price,
 .pricing.pricing-selected .pricing-header {
-  background: #68c39f;
+  background: #686fc3;
 }
 .pricing .pricing-price {
   font-size: 50px;
@@ -1078,6 +1080,7 @@ footer {
   color: #999;
   font-size: 13px;
   padding: 50px 0px 20px;
+  background-color: #384786;
 }
 footer h4 {
   color: #fff;
@@ -1149,7 +1152,7 @@ footer .social-links a {
   color: #e15554;
 }
 .has-success .form-control-feedback {
-  color: #68c39f;
+  color: #686fc3;
 }
 .has-success .form-control {
   border-color: #ddd !important;
@@ -1187,7 +1190,7 @@ footer .social-links a {
   display: block;
   font-family: "Raleway";
   font-weight: 600;
-  color: #4a525f;
+  color: #4b4ba3;
 }
 .gallery-item-descr {
   color: #555;
@@ -1317,7 +1320,7 @@ footer .social-links a {
     padding: 20px;
   }
   header .navbar-default.scrolled ul.navbar-nav li a:hover {
-    color: #68c39f;
+    color: #686fc3;
   }
   header.inverted .navbar-default ul.navbar-nav li a {
     color: #fff;
@@ -1325,7 +1328,7 @@ footer .social-links a {
   header.inverted .navbar-default ul.navbar-nav li a:hover,
   header.inverted .navbar-default ul.navbar-nav li a:focus,
   header.inverted .navbar-default ul.navbar-nav li a.active {
-    color: #68c39f;
+    color: #686fc3;
   }
   .video-block {
     padding: 10px 0px;
