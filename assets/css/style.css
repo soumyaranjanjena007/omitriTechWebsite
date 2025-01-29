@@ -383,7 +383,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #12127b;
+  color: #010066;
   font-family: "Raleway";
 }
 .light {
@@ -869,7 +869,6 @@ header.inverted #topbar .top-divider {
   padding-bottom: 50px;
 }
 .video-block {
-  height: 450px;
   padding: 100px 0px;
   overflow: hidden;
   position: relative;
