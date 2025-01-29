@@ -13,8 +13,8 @@
 .btn-default:hover,
 .btn-default:focus,
 .btn-default.active {
-  background-color: #989898 !important;
-  border-color: #989898 !important;
+  background-color: #5c53a5  !important;
+  border-color: #5c53a5  !important;
   color: #fff;
 }
 .btn-bordered.btn-default {
@@ -680,7 +680,9 @@ header .navbar-default ul.navbar-nav li a:focus {
 }
 header .navbar-default ul.navbar-nav li a:hover:after,
 header .navbar-default ul.navbar-nav li a.active:after {
-  background: #ffffff;
+  background: #686fc3;
+  /* #ffffff;  */
+  
 }
 header .navbar-default .navbar-brand {
   height: auto;
@@ -742,7 +744,7 @@ header.inverted .navbar-default ul.navbar-nav li a:hover:after,
 header.inverted .navbar-default ul.navbar-nav li a.active:after,
 header .navbar-default.scrolled ul.navbar-nav li a:hover:after,
 header .navbar-default.scrolled ul.navbar-nav li a.active:after {
-  background: #333;
+  background: #686fc3;
 }
 header.inverted #topbar .top-divider {
   border-bottom: 1px solid rgba(0,0,0,0.3);
@@ -1065,7 +1067,7 @@ background: #0a0443;
 }
 .tothetop:hover,
 .tothetop:focus {
-  background: rgba(0,0,0,0.5);
+  background: rgb(153, 159, 188);
   color: #fff;
   -webkit-transition: all .25s ease-in-out;
   -moz-transition: all .25s ease-in-out;

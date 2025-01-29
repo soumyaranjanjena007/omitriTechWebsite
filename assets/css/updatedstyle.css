@@ -132,3 +132,12 @@
     font-size: 20px;
     color: #010066;
 }
+
+.scroll-up-btn{
+    background-color: #010066;
+}
+
+.copyright-p{
+    position: relative;
+    right: -799px;
+}
