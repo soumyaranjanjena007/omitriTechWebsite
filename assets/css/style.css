@@ -889,7 +889,7 @@ header.inverted #topbar .top-divider {
 .video-block video {
   width: 100%;
   position: absolute;
-  top: -46px;
+  top: -88px;
   left: 0px;
   z-index: 0px;
 }
