@@ -877,7 +877,7 @@ header.inverted #topbar .top-divider {
 }
 .video-block .video-overlay {
   /* background: rgba(0,0,0,0.7); */
-background: #0a0443;
+/* background: #0a0443; */
   position: absolute;
   top: 0px;
   left: 0px;
@@ -889,7 +889,7 @@ background: #0a0443;
 .video-block video {
   width: 100%;
   position: absolute;
-  top: 0;
+  top: -46px;
   left: 0px;
   z-index: 0px;
 }
