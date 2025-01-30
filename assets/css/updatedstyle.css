@@ -10,8 +10,8 @@
 .read-more {
   border: none;
   border-style: none;
-  color: #102643;
-  font-size: 12px;
+  color: #336799;
+  font-size: 13px;
   background-color: white;
   padding: 0px;
   margin: 0px;
@@ -21,6 +21,7 @@
 #service-para {
   max-height: 81px;
   overflow: hidden;
+  text-align: justify;
 }
 .read-more-service {
   display: inline-block;
@@ -139,5 +140,18 @@
 
 .copyright-p{
     position: relative;
-    right: -799px;
+    right: -857px;
+}
+
+.namenaddicon{
+    font-size: 17px;
+    margin: 5px 5px 5px 0px;
+}
+
+.gallery-item-descr p{
+
+}
+
+.loc-icn{
+    margin-left: 5px;
 }

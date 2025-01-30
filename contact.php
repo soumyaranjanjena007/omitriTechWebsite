@@ -10,7 +10,7 @@
 	$message = $_POST['message'];
 		
 	// create email body and send it	
-	$to = 'hakankozakli@gmail.com'; // put your email
+	$to = 'soumya.omitri@gmail.com'; // put your email
 	$email_subject = "Contact form submitted by: $name";
 	$email_body = "You have received a new message. \n\n".
 					  " Here are the details:\n \nName: $name \n ".
