@@ -1378,3 +1378,12 @@ footer .social-links a {
     width: 100%;
   }
 }
+
+@media screen and (max-width: 480px) {
+  #myVideo{
+    /* height: 100px; */
+    position: relative;
+    right: 505px;
+  }
+  
+}
